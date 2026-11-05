@@ -2330,7 +2330,6 @@ _G.GTLMODConfig = _G.GTLMODConfig or {
     Esp7 = true,
     Esp8 = false,
     EspAntenna = false, 
-    EspName = false,
     EspOutline = false, 
     OutlineThickness = 10, 
     UnlockFPS = false, 
